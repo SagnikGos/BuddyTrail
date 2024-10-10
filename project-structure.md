@@ -7,6 +7,8 @@
 ├── boy.png
 ├── chatbot.gif
 ├── chatbot.html
+├── crescent-moon.png
+├── day-mode.png
 ├── firebase.js
 ├── icons
 │   ├── airplane.svg
