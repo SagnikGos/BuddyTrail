@@ -10,7 +10,12 @@
 ├── book.html
 ├── boy.png
 ├── chatbot.gif
+<<<<<<< HEAD
 ├── chatbot.html
+=======
+>>>>>>> a36afa08797aaccfc5359acb7b18470ed8e4bb3e
+├── crescent-moon.png
+├── day-mode.png
 ├── firebase.js
 ├── icons
 │   ├── airplane.svg
@@ -30,6 +35,7 @@
 │   ├── logo2.png
 │   └── new-york-page.png
 ├── index.html
+├── package-lock.json
 ├── project-structure.md
 ├── project_structure.txt
 ├── script.js
